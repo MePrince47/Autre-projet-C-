@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1657241675 source:c:\users\hitech tuning\desktop\projet c\modularisation\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1657239414 c:\users\hitech tuning\desktop\projet c\modularisation\header.h
+
+1657239420 source:c:\users\hitech tuning\desktop\projet c\modularisation\mod.c
+	"header.h"
+
+1657239484 source:c:\users\hitech tuning\desktop\projet c\modularisation\mod1.c
+	"header.h"
+
